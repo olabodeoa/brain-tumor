@@ -24,3 +24,4 @@ We merged the newly created segment back with the customer data.
 Using the customer demographics, attitudinal and newly created segment, we profiled the customers. 
 We e
 
+hshhshsh
