@@ -1,0 +1,26 @@
+kind of jobs to apply and how to understand a CV
+Questions and answers
+review of excel questions
+WEEKEND35 
+
+EUROPEAN RETAILER GETS A LOYALTY LIFT
+
+A European retailer wasn’t sure if its loyalty program was as effective as it could be. As it was, the program allowed customers to earn points to convert into gifts or vouchers to spend in the store. Additionally, customers could earn points from a variety of partners connected to the program. The retailer wanted to know what program changes would really delight and excite customers, to build more loyalty and deliver measurable results — so it came to dunnhumby.
+The insight
+
+Situation
+
+A global manufacturing organisation with operations in America, Europe and Asia was experiencing a shift in the market place towards digital. The organisation was keen to understand the profile of customers who were switching to digital stores and the impact of the switch on the organisation's Profit and losses (P&L).
+
+Task 
+Knowing Pairview’s ability to generate unique insights and make actionable recommendations to problems, the organisation engaged Pairview to deliver on this requirement. I was tasked alongside with 2 other analsyst to work on this project on behalf of Pairview. 
+
+Approach 
+Using the organisation's transactional and customer data:
+
+We analysed the transactional data and grouped all customers based on recency, frequency and total value of purchase per customer.
+Following this, we further segmented customers into High, mid and low value to identify which of those customers where driving profitability. 
+We merged the newly created segment back with the customer data.
+Using the customer demographics, attitudinal and newly created segment, we profiled the customers. 
+We e
+
