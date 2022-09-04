@@ -25,3 +25,8 @@ Using the customer demographics, attitudinal and newly created segment, we profi
 We e
 
 hshhshsh
+-- INSERT --
+We analysed the transactional data and grouped all customers based on recency, frequency and total value of purchase per customer.
+Following this, we further segmented customers into High, mid and low value to identify which of those customers where driving profitability. 
+We merged the newly created segment back with the customer data.
+Using th
